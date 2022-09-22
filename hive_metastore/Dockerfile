@@ -1,4 +1,4 @@
-FROM openjdk:8-slim
+FROM openjdk:18-slim
 
 ARG HADOOP_VERSION=3.2.0
 
